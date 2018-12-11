@@ -3,6 +3,7 @@ import java.awt.*;
 /**
 @author Cosby
  @version 1.0
+ #fuldFartPåAltoen
  */
 
 public class Main
